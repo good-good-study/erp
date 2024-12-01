@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # erp
 erp created by bolt
-=======
+
 # WebContainer API Starter
 
 WebContainer API is a browser-based runtime for executing Node.js applications and operating system commands. It enables you to build applications that previously required a server running.
